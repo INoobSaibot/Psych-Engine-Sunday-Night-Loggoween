@@ -1,0 +1,30 @@
+{
+	"storyName": "Defeat",
+	"hideFreeplay": true,
+	"weekBackground": "defeatScroll",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Defeat",
+			"black",
+			[
+				0,
+				0,
+				120
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week 12"
+}

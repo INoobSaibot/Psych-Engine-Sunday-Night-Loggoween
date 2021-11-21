@@ -1,0 +1,30 @@
+{
+	"storyName": "Huggy Wuggy Wants to Play",
+	"hideFreeplay": false,
+	"weekBackground": "dark",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Playtime-Vent",
+			"huggy",
+			[
+				0,
+				0,
+				120
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"menubff",
+		""
+	],
+	"weekName": "Week 11"
+}

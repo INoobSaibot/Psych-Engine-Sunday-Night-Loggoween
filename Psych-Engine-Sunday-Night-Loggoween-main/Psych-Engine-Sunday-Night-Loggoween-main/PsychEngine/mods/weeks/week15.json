@@ -1,0 +1,66 @@
+{
+	"storyName": "The Skeld",
+	"hideFreeplay": false,
+	"weekBackground": "The Skeld",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"sussy-bussy",
+			"tomongus",
+			[
+				215,
+				0,
+				0
+			]
+		],
+		[
+			"rivals",
+			"tomongus",
+			[
+				106,
+				0,
+				0
+			]
+		],
+		[
+			"chewmate",
+			"hamster",
+			[
+				106,
+				0,
+				0
+			]
+		],
+		[
+			"sustime",
+			"hamster",
+			[
+				106,
+				0,
+				0
+			]
+		],
+		[
+			"shapeshifter",
+			"bf-pixel",
+			[
+				106,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "Week 15"
+}

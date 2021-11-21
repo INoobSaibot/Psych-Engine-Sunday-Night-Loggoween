@@ -1,0 +1,48 @@
+{
+	"storyName": "Polus Outpost",
+	"hideFreeplay": false,
+	"weekBackground": "polusSky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"sussus-moogus",
+			"impostor",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"sabotage",
+			"impostor",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"meltdown",
+			"impostor",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week 13"
+}

@@ -1,0 +1,39 @@
+{
+	"storyName": "Meow~",
+	"hideFreeplay": false,
+	"weekBackground": "space",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Nyan",
+			"nyancat",
+			[
+				215,
+				0,
+				0
+			]
+		],
+		[
+			"NyanStep",
+			"nyancat",
+			[
+				106,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Cat",
+		"bf",
+		"gf"
+	],
+	"weekName": "Toaster"
+}

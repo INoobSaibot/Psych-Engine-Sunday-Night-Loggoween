@@ -1,0 +1,30 @@
+{
+	"storyName": "Double Trouble",
+	"hideFreeplay": false,
+	"weekBackground": "polusSky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"double-trouble",
+			"impostor",
+			[
+				0,
+				0,
+				120
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bff",
+		""
+	],
+	"weekName": "Double Trouble"
+}

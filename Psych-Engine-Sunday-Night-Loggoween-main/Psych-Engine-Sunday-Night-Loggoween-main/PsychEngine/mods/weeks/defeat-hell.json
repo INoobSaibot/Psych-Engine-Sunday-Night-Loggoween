@@ -1,0 +1,30 @@
+{
+	"storyName": "Defeat Hell",
+	"hideFreeplay": false,
+	"weekBackground": "defeatScroll",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Defeat-Hell",
+			"black",
+			[
+				0,
+				0,
+				120
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Defeat Hell"
+}
